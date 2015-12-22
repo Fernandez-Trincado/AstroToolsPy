@@ -10,3 +10,8 @@ Figure 1: Aitoff projectin using data from DR7.
 
 Figure 2: Aitoff projectin using data from DR7. 
 ![Figure2](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/Figures/Figure2.png)
+
+
+
+
+If you make use of any of these tools, or examples in a scientific publication, please consider acknowledgment to AstroToolsPy.
