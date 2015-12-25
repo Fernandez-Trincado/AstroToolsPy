@@ -14,6 +14,6 @@ Figure 2: Aitoff projection using DR7 data.
 * [BPT.py](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/BPT.py) is a Python code created to make a simple BPT diagram using DR7 data. See example below:
 
 Figure 3: Example of BPT diagram using DR7 data. 
-![Figure3](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/Figures/BPT_DIAGRAM.png = 250x)
+![Figure3](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/Figures/BPT_DIAGRAM.png){max-width:20px}
 
 If you make use of any of these tools, or examples in a scientific publication, please consider acknowledgment to AstroToolsPy.
