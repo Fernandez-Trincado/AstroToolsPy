@@ -22,6 +22,12 @@ except ImportError:
 
 FITS = fits.open('gal_line_dr7_v5_2.fit.gz')  # Read the compress data
 
+head      = FITS[1].data
+infheader = head.columns
+
+# If you need 
+
+
 Hbeta  = FITS[1].data['H_BETA_FLUX']          # Reading the column with Hbeta line 
 OIII   = FITS[1].data['OIII_5007_FLUX']       # Reading the column with OIII line
 Halpha = FITS[1].data['H_ALPHA_FLUX']         # Reading the column with Halpha line
