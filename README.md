@@ -3,6 +3,18 @@ AstroToolsPy
 
 AstroToolsPy is a collection of machine learning algorithms for data mining tasks on Python 
 
+Author:
+---
+J. G. Fernandez-Trincado
+
+Please let me know if you have any questions or suggestions:
+---
+jfernandez@obs-besancon.fr, jfernandezt87@gmail.com
+
+
+Description
+==
+
 Aitoff Projection: 
 ---
 
