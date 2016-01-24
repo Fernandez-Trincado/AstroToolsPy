@@ -29,7 +29,7 @@ for i in np.arange(len(xedges[:-1])):
                 RA, DEC, Z = np.append(RA, xedges[:-1][i]), np.append(DEC,yedges[:-1][j]), np.append(Z, H.T[j,i])
 
 
-# Optional: uncomment the following two lines if you not need print zero values in the third component, see Figure2.png                                                                                     
+# Optional: uncomment the following two lines if you not need print zero values in the third component, see Figure 1.2.                                                                                     
 mask       = (Z >0)
 RA, DEC, Z = RA[mask], DEC[mask], Z[mask]
 
