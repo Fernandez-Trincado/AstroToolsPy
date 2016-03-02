@@ -16,7 +16,9 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
 CODE
 ==
 
-Many options can be found at [astroML](http://www.astroml.org "astroML")
+Many options can be found at [astroML: Machine Learning and Data Mining for Astronomy ](http://www.astroml.org "astroML")
+
+I developed `AstroToolPy` (for particular cases) an extended and updated version of `astroML`.
 
 
 1.) Aitoff Projection: 
