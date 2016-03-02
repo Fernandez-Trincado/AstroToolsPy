@@ -55,6 +55,6 @@ If you use AstroToolsPy in your research, we would be grateful if you could incl
 
 Thanks.
 
-Last update: 2016, January
+Last update: 2016, March
 --
 
