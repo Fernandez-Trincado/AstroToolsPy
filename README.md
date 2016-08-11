@@ -45,7 +45,7 @@ Examples:
 Figure 2.1: BPT diagram using DR7 data. 
 ![Figure3](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/Figures/BPT_DIAGRAM.png)
 
-3.) Simple Normalization 
+3.) Simple Normalization: Download program [here](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/Normalization.py)
 
 ![Figure4](https://github.com/Fernandez-Trincado/AstroToolsPy/blob/master/Figures/Example_Normalization.png)
 
